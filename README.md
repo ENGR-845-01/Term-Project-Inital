@@ -1,1 +1,3 @@
-# Term-Project-Inital
+## Term-Project-Inital
+## Team Members
+* Aaron Singh
